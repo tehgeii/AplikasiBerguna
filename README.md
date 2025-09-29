@@ -1,2 +1,3 @@
 # AplikasiBerguna
-Aplikasi Berguna Dari Part 1 - Sekarang
+Aplikasi Berguna Dari Part 1 - Sekarang (Part 54)
+https://github.com/tehgeii/AplikasiBerguna/releases/download/Part54/Aplikasi.Dari.Part.1-54.zip
